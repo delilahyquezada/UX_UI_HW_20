@@ -13,3 +13,43 @@
     text-decoration: none;
     font-size: larger;
   }
+
+
+.p-5 mb-4 bg-dark rounded-3 {
+    background-image: url("/Images/casestudypixc.png");
+    background-size: cover;
+  }
+
+  .bg-image {
+    background-image: url("/Images/casestudypixc.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+
+body {
+    font-family: 'Plus Jakarta Sans';
+    }
+
+ p {
+    font-family: 'Plus Jakarta Sans';
+   
+
+    }
+    h2 {
+        font-family: 'Plus Jakarta Sans';
+
+}
+
+.heading1 {
+    text-align: center;
+}
+
+
+.col-6 bg-image {
+    background-image: url("/Images/72Kyleheadbanger.png");
+
+}
+
+
+}
