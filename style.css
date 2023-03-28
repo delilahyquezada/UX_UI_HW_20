@@ -1,0 +1,57 @@
+.site-header {
+    background-color: white;
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+  }
+  .site-header a {
+    color: black;
+    transition: color .15s ease-in-out;
+    font-family: 'Plus Jakarta Sans';
+  }
+  .site-header a:hover {
+    color: hotpink;
+    text-decoration: none;
+    font-size: larger;
+  }
+
+
+.p-5 mb-4 bg-dark rounded-3 {
+    background-image: url("/Images/casestudypixc.png");
+    background-size: cover;
+  }
+
+  .bg-image {
+    background-image: url("/casestudypixc.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px;
+
+body {
+    font-family: 'Plus Jakarta Sans';
+    }
+
+p {
+font-family: 'Plus Jakarta Sans';
+font-size: 30px;
+   
+
+    }
+    h2 {
+        font-family: 'Plus Jakarta Sans';
+
+}
+
+.heading1 {
+    text-align: center;
+}
+
+
+.col-6 bg-image {
+    background-image: url("/Images/72Kyleheadbanger.png");
+
+}
+
+
+}
+
