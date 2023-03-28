@@ -31,8 +31,9 @@ body {
     font-family: 'Plus Jakarta Sans';
     }
 
- p {
-    font-family: 'Plus Jakarta Sans';
+p {
+font-family: 'Plus Jakarta Sans';
+font-size: 30px;
    
 
     }
@@ -53,3 +54,4 @@ body {
 
 
 }
+
